@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Samarjit-Roy/Samarjit-Roy/blob/main/Computer%20Science.png)
 <h1 align="center">Hi 👋, I'm Samarjit ROy</h1>
 <h3 align="center">A passionate developer from India</h3>
 
