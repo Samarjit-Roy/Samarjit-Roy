@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarjit-roy&label=Profile%20views&color=0e75b6&style=flat" alt="amarjit-roy" /> </p>
 
-- 👨‍💻 All of my detail are available at [linkedin.com/in/samarjit-roy-209404326](linkedin.com/in/samarjit-roy-209404326)
+- 👨‍💻 My detail available at [linkedin.com/in/samarjit-roy-209404326](linkedin.com/in/samarjit-roy-209404326)
 
 - 📫 How to reach me **samarjitk221@gmail.com**
 
