@@ -1,5 +1,5 @@
 ![logo](https://github.com/Samarjit-Roy/Samarjit-Roy/blob/main/Computer%20Science.png)
-<h1 align="center">Hi 👋, I'm Samarjit ROy</h1>
+<h1 align="center">Hi 👋, I'm Samarjit Roy</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/afe34672-ffd2-4e7e-a081-bddb5a6e5451">
